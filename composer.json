@@ -1,0 +1,15 @@
+{
+    "name": "somthanat/proxmox-api-client",
+    "description": "This PHP 7.0+ library allows you to interact with Proxmox VE API.",
+    "type": "library",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Somthanat Wongsa",
+            "email": "somthanat@gmail.com"
+        }
+    ]
+}
